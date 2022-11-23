@@ -1,0 +1,4 @@
+SQL Site: stratascratch, hakerrank
+SQL important function : GROUP BY, PARTITION, CTE, RANK
+casestudy book : https://www.wallstreetoasis.com/files/case-in-point-7th-edition1.pdf
+SDE interview guide : https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
